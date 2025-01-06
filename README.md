@@ -8,7 +8,7 @@ This repository contains the implementation of underwater image restoration usin
 
 Below is a visual representation of our modified MIRNet architecture:
 
-![Modified MIRNet Architecture](./assets/architecture.png)
+![Modified MIRNet Architecture](./architecture.png)
 
 ---
 
@@ -16,13 +16,11 @@ Below is a visual representation of our modified MIRNet architecture:
 
 Here are some examples of underwater image restoration results achieved by our model:
 
-| Input Image | Restored Image |
-|-------------|----------------|
-| ![Input Image](./assets/input_image.png) | ![Restored Image](./assets/restored_image.png) |
+| Input Image                          | Restored Image                          | Ground Truth                          |
+|--------------------------------------|-----------------------------------------|---------------------------------------|
+| ![Input Image](./assets/input1.png)  | ![Restored Image](./assets/mirnet1.png) | ![Ground Truth](./assets/gt1.png) |
+| ![Input Image 2](./assets/input2.png)| ![Restored Image 2](./assets/mirnet2.png)| ![Ground Truth 2](./assets/gt2.png) |
 
-| Input Image | Restored Image |
-|-------------|----------------|
-| ![Input Image 2](./assets/input_image2.png) | ![Restored Image 2](./assets/restored_image2.png) |
 
 ---
 
